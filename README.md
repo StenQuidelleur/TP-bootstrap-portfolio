@@ -24,17 +24,15 @@
 3. **Section d'en-tête**:
     - Juste en dessous de la navbar, ajoutez une grande image de fond (peut-être une photo de vous ou un design abstrait).
     - Par-dessus cette image, placez un petit texte de bienvenue ou une citation qui vous représente.
-    - Utilisez le système de grille Bootstrap pour centrer votre texte.
 
 4. **Compétences**:
     - Listez vos compétences (comme HTML, CSS, JavaScript, etc.).
     - Utilisez les icônes de Font Awesome ou d'une autre bibliothèque pour ajouter des icônes à côté de chaque compétence.
-    - Essayez d'utiliser les cartes (cards) de Bootstrap pour afficher chaque compétence.
 
 5. **Projets**:
     - Présentez quelques-uns de vos projets (réels ou fictifs).
     - Chaque projet doit avoir une image, un titre, une description et éventuellement un lien vers le projet.
-    - Encore une fois, utilisez les cartes de Bootstrap. Essayez de les organiser en grille.
+    - Essayez d'utiliser les cartes (cards) de Bootstrap pour afficher chaque compétence. Essayez de les organiser en grille.
 
 6. **Contact**:
     - Créez un formulaire de contact avec les champs : Nom, Email, Sujet, et Message.
@@ -43,6 +41,7 @@
 
 7. **Pied de page (Footer)**:
     - Ajoutez un pied de page simple avec une note de copyright.
+    - Placez également des liens vers vos profils de médias sociaux. Utilisez des icônes pour chaque lien.
 
 8. **Personnalisation**:
     - Personnalisez votre site avec des couleurs, polices et styles de votre choix. Vous pouvez utiliser des variables CSS ou surcharger les styles de Bootstrap.
@@ -52,13 +51,7 @@
 
 ---
 
-#### **Critères d'évaluation**:
-
-1. Utilisation correcte des composants Bootstrap.
-2. Esthétique et design du site.
-3. Lisibilité et organisation du code.
-4. Fonctionnalité du formulaire de contact (même si les messages ne sont pas réellement envoyés).
-5. Responsivité du site sur les appareils mobiles.
+Responsivité du site sur les appareils mobiles.
 
 ---
 
