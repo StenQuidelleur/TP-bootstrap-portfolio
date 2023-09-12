@@ -5,7 +5,7 @@
 
 **Objectif**: Apprendre à utiliser Bootstrap pour construire rapidement un site responsive et esthétiquement plaisant.
 
-**Description**: Les étudiants devront créer un site web de portfolio personnel qui mettra en évidence leurs compétences, projets, et une page de contact.
+**Description**: Créer un site web de portfolio personnel qui mettra en évidence vos compétences, projets, et une page de contact.
 
 ---
 
