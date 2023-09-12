@@ -21,7 +21,7 @@
     - Créez une barre de navigation fixe en haut de la page avec les liens suivants : Accueil, Compétences, Projets, Contact.
     - Utilisez le composant Navbar de Bootstrap.
 
-3. **Section d'en-tête (Hero section)**:
+3. **Section d'en-tête**:
     - Juste en dessous de la navbar, ajoutez une grande image de fond (peut-être une photo de vous ou un design abstrait).
     - Par-dessus cette image, placez un petit texte de bienvenue ou une citation qui vous représente.
     - Utilisez le système de grille Bootstrap pour centrer votre texte.
