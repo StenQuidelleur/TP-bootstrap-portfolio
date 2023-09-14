@@ -13,7 +13,7 @@
 
 1. **Configuration initiale**:
     - Créez un nouveau dossier pour votre projet.
-    - À l'intérieur, créez des dossiers `css`, `js`, et `images`.
+    - À l'intérieur, créez des dossiers `css` et `images`.
     - Téléchargez Bootstrap à partir du site officiel ou utilisez les CDN.
     - Créez un fichier `index.html` et incluez-y Bootstrap.
 
